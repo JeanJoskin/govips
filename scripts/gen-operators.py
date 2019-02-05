@@ -31,7 +31,6 @@ package vips
  * Generated at %s
  */
 
-// #cgo pkg-config: vips
 // #include "vips/vips.h"
 import "C"\
 

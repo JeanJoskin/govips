@@ -5,7 +5,6 @@ package vips
 
 //go:generate scripts/codegen.sh
 
-// #cgo pkg-config: vips
 // #include "vips/vips.h"
 import "C"
 import (

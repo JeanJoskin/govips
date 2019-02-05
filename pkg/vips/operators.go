@@ -9,7 +9,6 @@ package vips
  * Generated at 09:30AM on February 14, 2018
  */
 
-// #cgo pkg-config: vips
 // #include "vips/vips.h"
 import "C"
 
